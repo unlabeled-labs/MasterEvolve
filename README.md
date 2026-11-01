@@ -1,5 +1,13 @@
 # MasterEvolve
 
+## Índice
+1. [Buscador y agregador de precios y ofertas locales](#1-buscador-y-agregador-de-precios-y-ofertas-locales)
+2. [Reparto de una cartera de inversión](#2-reparto-de-una-cartera-de-inversión)
+3. [Planificador de transporte público](#3-planificador-de-transporte-público)
+4. [Gestión de stock según ventas](#4-gestión-de-stock-según-ventas)
+5. [Diario de comidas](#5-diario-de-comidas)
+6. [Recomendador de rutas o actividades](#6-recomendador-de-rutas-o-actividades)
+
 
 ## 1 Buscador y agregador de precios y ofertas locales
 Un sistema que te permita hacer un seguimiento en lo que gastas en la cesta de la compra y localizar ofertas o buenos precios en supermercados y tiendas locales.
