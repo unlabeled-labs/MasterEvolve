@@ -8,7 +8,7 @@
 
 - Juan José Casamitjana Benítez
 - Brayan Silvestre Valero
-- José Tomás Pérez Martínez
+- José Tomás Pérez Martínez Github: @JoseTomasPM
 - Javier Giral Sanchez
 
 ## Ideas

@@ -33,7 +33,14 @@ Dependiendo de la ruta puede servir para comparar productos entre sí y cuanto p
 Ruta dos, te permite sacar fotos de las comidas para analizar su contenido nutricional directamente, aunque veo ciertos problemas con este acercamiento ya que una foto no aporta mucha información.
 
 
-## 6 RECOMENDADOR DE RUTAS O ACTIVIDADES
-Problema: Eleccion de bscar planes o experiencias ajustadas a su presupuesto ubicacion y gustos
-Enfoque: recomendador juntando lo que te gusta como un buscador normal y aprende lo qe les ha gustado a otras personas parecidas a ti
-Origen de los datos: OpenStreetMap (libreria Python OSMnx)
+# Recomendado de rutas y actividades
+
+* Descripción: Sistema para buscar planes, experiencias  ocio a daptados al presupuesto
+* Fuentes:
+    * Ubicación: OpenStreetMap
+    * Precios: Foursquare Places API
+    * Usuarios similares: Formulario inicial de gustos
+
+* MVP: En una zona concreta curuzar datos de OpenScreetMap con listado de precios y un filtrado por presupesto y categoria
+
+* Escalabilidad: Cambio a la API de Google Maps en un plan de pago para obtener mayor cobertura de opiniones si el volumen de usuarios justifica el coste.
