@@ -20,17 +20,15 @@ Resulta útil cada semana al planificar la compra, al decidir en qué tienda com
 
 
 ## 2 Reparto de una cartera de inversión
-Propone cómo repartir un dinero entre varios activos según el riesgo que acepte el usuario. Muestra además cómo habría funcionado esa cartera en el pasado.
-Y va actualizando las recomendaciones en función del flujo del mercado. 
+Problema: quien empieza a invertir no sabe cómo repartir su dinero entre activos ni qué riesgo asume con cada reparto. Enfoque: Descargar series de precios y calcular rentabilidades. Estimar riesgo y volatilidad, con intervalos de confianza. Predecir la volatilidad con GARCH y XGBoost frente a una media móvil. Optimizar el reparto con Markowitz, simular escenarios con Monte Carlo y compararlo con un reparto equitativo. Origen de los datos: precios históricos de yfinance (Yahoo Finance)
 
 
 ## 3 Planificador de transporte público
-Estima la probabilidad de retraso y cuanto retraso de autobuses y trenes en un trayecto. Ayuda a elegir la ruta y el margen de salida.
+Problema: quien debe llegar a una hora no sabe qué ruta de tren o autobús es más fiable. Los horarios teóricos no muestran los retrasos habituales. Enfoque: Construir un histórico de puntualidad por línea, franja horaria y día. Clasificar la probabilidad de retraso, con clases desbalanceadas, y compararla con una referencia basada en la media por línea. Comparar dos o tres rutas y recomendar el margen de salida. Origen de datos: revisar datos de autobuses, trenes y metro en vivo.
 
 
 ## 4 Gestión de stock según ventas
-Analiza las ventas de una tienda, clasifica los productos por rotación y propone qué reponer, mantener o reducir. Incluye una previsión de ventas semanal
-
+Problema: quien gestiona una tienda no sabe qué productos reponer, cuáles reducir y cuáles inmovilizan dinero. Decide por intuición o revisando hojas de ventas a mano. Limpiar las transacciones, incluidas cancelaciones y devoluciones. Enfoque: Clasificar los productos por rotación (alta, media, baja). Predecir las ventas de la semana o mes siguiente y compararlas con una referencia sencilla, como repetir la semana anterior. Mostrar una lista de productos a reponer, mantener o reducir. obtención de datos: Online Retail II, de UCI, con transacciones reales de un comercio electrónico entre diciembre de 2009 y diciembre de 2011.
 ## 5 Diario de comidas (Manjare)
 Manjare es una aplicación que convierte un objetivo nutricional en un menú. El usuario indica su peso, altura, sexo y alérgenos, y la app le propone unos límites de calorías y nutrientes como proteínas, hierro o vitamina C, que puede aceptar o ajustar. A partir de ahí le recomienda ingredientes, productos y recetas, y le arma un menú semanal o mensual que se actualiza cuando añade o quita ingredientes. También puntúa un producto según contenga o no el nutriente que busca o quiere evitar. No da diagnósticos médicos ni sustituye a un nutricionista.
 
