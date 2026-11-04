@@ -37,7 +37,7 @@ Está pensada para quien ya tiene un objetivo nutricional, propio o recomendado 
 Manjare es útil al planificar la semana o el mes, al decidir qué producto comprar y al comprobar día a día si se está cumpliendo el objetivo. Su valor está en ahorrar al usuario el cálculo de nutrientes y la búsqueda de recetas, y en convertir una recomendación abstracta en una lista de la compra y un menú concretos. Tiene un límite claro: si faltan datos nutricionales de un producto, el menú podría quedarse corto en algún nutriente sin que se note, por lo que la app debe avisar de esa incertidumbre.
 
 
-# Recomendado de rutas y actividades
+## 6 Recomendado de rutas y actividades
 
 * Descripción: Sistema para buscar planes, experiencias  ocio a daptados al presupuesto
 * Fuentes:
