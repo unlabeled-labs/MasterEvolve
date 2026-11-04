@@ -46,7 +46,7 @@ Manjare es útil al planificar la semana o el mes, al decidir qué producto comp
 * Descripción: Sistema para buscar planes, experiencias  ocio a daptados al presupuesto
 * Fuentes:
     * Ubicación: OpenStreetMap
-    * Precios: Foursquare Places API
+    * Precios: Fuentes de datos Instiucionales y Portales de datos Abiertos
     * Usuarios similares: Formulario inicial de gustos
 
 * MVP: En una zona concreta curuzar datos de OpenScreetMap con listado de precios y un filtrado por presupesto y categoria
