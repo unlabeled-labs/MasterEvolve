@@ -1,15 +1,20 @@
 # MasterEvolve
 
 ## Índice
-1. [Integrantes](#integrantes)
-2. [Ideas](#ideas)
+1. [Estado actual](#estado-actual)
+2. [Integrantes](#integrantes)
+3. [Ideas](#ideas)
+
+# Estado actual
+
+“Exploración de ideas”
 
 ## Integrantes
 
-- Juan José Casamitjana Benítez
-- Brayan Silvestre Valero
-- José Tomás Pérez Martínez Github: @JoseTomasPM
-- Javier Giral Sanchez
+- Juan José Casamitjana Benítez: [JuanJoCasamitjana](https://github.com/JuanJoCasamitjana)
+- Brayan Silvestre Valero: [Brai266](https://github.com/Brai266)
+- José Tomás Pérez Martínez Github: [JoseTomasPM](https://github.com/JoseTomasPM)
+- Javier Giral Sanchez: [PointedHammer](https://github.com/PointedHammer)
 
 ## Ideas
 
