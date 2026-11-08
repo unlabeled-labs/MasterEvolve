@@ -20,7 +20,6 @@ Repositorio común: [unlabeled-labs/MasterEvolve](https://github.com/unlabeled-l
 | José Tomás Pérez Martínez | [JoseTomasPM](https://github.com/JoseTomasPM) |
 | Javier Giral Sanchez | [PointedHammer](https://github.com/PointedHammer) |
 
-Excepción al trabajo por parejas: el equipo está formado por cuatro integrantes. Motivo de la excepción: [POR COMPLETAR].
 
 ## 2 Ideas
 
